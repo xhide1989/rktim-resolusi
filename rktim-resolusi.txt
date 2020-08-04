@@ -2,3 +2,5 @@ rktim resolusi
 - konsisten untuk membuat program administrasi
 - membuat platform untuk pengelolaan rktim
 - membuat forum diskusi
+- membuat app android untuk rktim
+- administrasi central
